@@ -17,7 +17,7 @@ Click the **Use this template** button to get started.
 
 Clone your repository and install dependencies.
 
-```sh
+```*sh*
 npm install
 ```
 
